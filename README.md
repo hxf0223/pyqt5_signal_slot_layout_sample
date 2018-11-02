@@ -9,7 +9,7 @@
 * [PyQt5 Download](https://riverbankcomputing.com/software/pyqt/download5)
 * [ Download Anaconda Distribution](https://www.anaconda.com/download/#linux)
 
-##关于作者
+## About author
 
 ```javascript
   let author = {
