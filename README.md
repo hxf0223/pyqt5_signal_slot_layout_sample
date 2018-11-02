@@ -9,6 +9,10 @@
 * [PyQt5 Download](https://riverbankcomputing.com/software/pyqt/download5)
 * [ Download Anaconda Distribution](https://www.anaconda.com/download/#linux)
 
+## Where to find & install python packages 
+* [Anaconda](https://anaconda.org/)
+* [Pypi, pip](https://pypi.org/)
+
 ##关于作者
 
 ```javascript
