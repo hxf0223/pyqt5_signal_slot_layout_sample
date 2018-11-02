@@ -7,6 +7,7 @@
 * [PyQt5-Chinese-Tutorial](https://maicss.gitbooks.io/pyqt5/content/)
 * [Pyqt5系列(七)-信号与槽机制](https://blog.csdn.net/zhulove86/article/details/52530214)
 * [PyQt5 Download](https://riverbankcomputing.com/software/pyqt/download5)
+* [ Download Anaconda Distribution](https://www.anaconda.com/download/#linux)
 
 ##关于作者
 
