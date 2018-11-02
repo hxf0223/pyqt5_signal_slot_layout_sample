@@ -13,8 +13,7 @@
 * [Anaconda](https://anaconda.org/)
 * [Pypi, pip](https://pypi.org/)
 
-##关于作者
-
+## About author
 ```javascript
   let author = {
     nickName  : "vaughn0223",
